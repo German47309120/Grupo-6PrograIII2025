@@ -16,5 +16,7 @@ public class Prueba01 {
         int b=15;
         int c=a+b;
         System.out.println("total: "+c);
+        int d = a-b;
+        System.out.println("resta total =" +d);
     }
 }
