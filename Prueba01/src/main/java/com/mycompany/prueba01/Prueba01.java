@@ -18,5 +18,7 @@ public class Prueba01 {
         System.out.println("total: "+c);
         int d = a-b;
         System.out.println("resta total =" +d);
+        int z = a*b;
+        System.out.println("multi: "+ z);
     }
 }
